@@ -10,5 +10,6 @@ A 5 day intense workshop using VSD's VM VDI on TCL Scripting to automate  RTL to
 ## Day 2 :
 ### - Generating matrix to store contents of given use file :
    ![Screenshot from 2023-06-17 20-13-22](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/366a8474-12e8-4874-97ae-62f9298e233f)
+### - Finding total rows and columns in given file :
 
 
