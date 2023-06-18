@@ -15,5 +15,5 @@ A 5 day intense workshop using VSD's VM VDI on TCL Scripting to automate  RTL to
 
 
 ## Day 3 :
-
-
+### - Setting clock constraints :
+   ![Screenshot from 2023-06-18 18-06-02](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/f624ee3a-6be7-4757-a09b-ebf3351742f9)
