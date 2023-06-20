@@ -46,7 +46,7 @@ A 5 day intense workshop using VSD's VM VDI on TCL Scripting to automate  RTL to
   
 ## Day 5 :
 ### - Intro to proc. and conf. files :
-###> - Intro to proc. and conf. files :
+> - Intro to proc. and conf. files :
 
 
 
