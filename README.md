@@ -42,11 +42,29 @@ A 5 day intense workshop using VSD's VM VDI on TCL Scripting to automate  RTL to
 ### - Error Handling [Injected error] :
    ![Screenshot from 2023-06-20 10-14-31](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/dfe50515-1807-4440-950d-5bd129dbb6ce)
    ![Screenshot from 2023-06-20 10-19-05](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/cc1c4b45-2547-4a38-b658-615867231448)
+### - Final Synthesis with log file :
+   ![Screenshot from 2023-06-20 10-23-51](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/5ca7bc12-8ede-4b31-9aa2-62264f43d073)
 
   
 ## Day 5 :
 ### - Intro to proc. and conf. files :
-> - Intro to proc. and conf. files :
+> - gedit outdir_openMSP430/openMSP430.conf
+   ![Screenshot from 2023-06-20 10-47-10](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/c4b0b7fa-483a-4a47-b433-79da36538f6b)
+### - Process bussed ports :
+   ![Screenshot from 2023-06-20 18-22-04](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/dc6439a5-481f-4120-80bc-a8e64eb34906)
+   ![Screenshot from 2023-06-20 18-21-56](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/88398c27-dfa6-4e9f-aae1-971cd0baf0c6)
+### - Final conf. files after read_sdc proc. :
+> - gedit outdir_openMSP430/openMSP430.conf
+   ![Screenshot from 2023-06-20 10-49-43](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/bf4788a5-6d7e-4379-9708-ff80c14190f4)
+   ![Screenshot from 2023-06-20 10-46-54](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/28c48ea3-9225-4b5f-a566-2a65e8c0b2bf)
+### - Initially set SPEF File :
+> - gedit outdir_openMSP430/openMSP430.spef
+   ![Screenshot from 2023-06-20 18-29-35](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/316afdf5-0a8e-464e-aadb-943a2e79205d)
+### - Expected final format output :
+   ![Screenshot from 2023-06-20 21-10-18](https://github.com/pratheekgg/TCL-5-day-Workshop-VSD-IAT-/assets/121636887/b3ddfd85-3bc6-4d0c-bf8a-bb45c9e2663e)
+
+
+## Special thanx to VSD-IAT program and Kunal Ghosh sir for this all inclusive TCL Scripting workshop ｡^‿^｡
 
 
 
